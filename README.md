@@ -1,7 +1,3 @@
-# 💼 Employee Salary Prediction
-
-A machine learning-based project to predict monthly salaries of employees using features like job role, education level, experience, performance rating, department, and more. This model helps HR professionals and analysts make fair and data-driven compensation decisions.
-
 ## 📁 Project Structure
 
 ```plaintext
