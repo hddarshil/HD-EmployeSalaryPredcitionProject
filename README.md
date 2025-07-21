@@ -1,7 +1,3 @@
-Sure! Here's a GitHub-style **README.md** section you can use for uploading your *Employee Salary Prediction* project. I've formatted it to make the repository look clean, professional, and easy to follow:
-
----
-
 # 💼 Employee Salary Prediction
 
 A machine learning-based project to predict monthly salaries of employees using features like job role, education level, experience, performance rating, department, and more. This model helps HR professionals and analysts make fair and data-driven compensation decisions.
@@ -51,12 +47,3 @@ A machine learning-based project to predict monthly salaries of employees using 
 ## 🚀 Results
 
 The model achieved an R² score of 0.87 with Random Forest, indicating strong predictive performance.
-
-## 📌 Author
-
-**Your Name**  
-Feel free to reach out for feedback, collaboration, or suggestions!
-
----
-
-Let me know if you’d like help generating the `requirements.txt`, sample data, or pushing it to your GitHub repo. I can help format it line-by-line.
